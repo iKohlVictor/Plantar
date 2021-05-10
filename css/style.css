@@ -1694,7 +1694,7 @@ font-weight: 500;
 }
 
 .banner-main .carousel-caption h1 {
-     color: #fff;
+     color: #4bc714;
      font-size: 110px;
      line-height: 84px;
      font-weight: bold;
@@ -1704,6 +1704,7 @@ font-weight: 500;
 
 .banner-main .carousel-caption p {
      color: #fff;
+     font-weight: bold;
      font-size: 30px;
      line-height: 31px;
      padding: 6px 0px 50px 0px;
@@ -2224,6 +2225,11 @@ width: 226px;
  }
 .address img {
      padding-bottom: 10px;
+}
+.address .rodape-logo .center-logo{
+     position: relative;
+     left: 50px;
+     bottom: -10px;
 }
 .address .rodape-logo a{
      font-size: 50px;
